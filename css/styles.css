@@ -2961,9 +2961,6 @@ input[type=button].btn-block {
   opacity: 0;
 }
 
-.collapse:not(.show) {
-  display: none;
-}
 
 .collapsing {
   position: relative;
@@ -10143,8 +10140,8 @@ h3 {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
-  font-size: 9rem;
-  line-height: 9.5rem;
+  font-size: 24vmin;
+  line-height: 25vmin;
   margin: auto;
 }
 .masthead .masthead-subheading {
