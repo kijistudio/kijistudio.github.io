@@ -92,7 +92,7 @@ body {
   text-shadow: 0 8px 9px #34314c, 0px -2px 1px #fff;
   font-weight: bold;
   letter-spacing: -4px;
-  text-align: center;
+
   border-radius: 20px;
 }
 
@@ -10138,7 +10138,7 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(6rem + 74px);
+  padding-top: calc(6rem + 110px);
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
